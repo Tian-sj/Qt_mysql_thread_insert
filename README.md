@@ -1,2 +1,2 @@
-# Qt_mysql_thread_insert
-Qt 线程池 Mysql 插入
+# 数据库名称：test
+## 表名称：person
